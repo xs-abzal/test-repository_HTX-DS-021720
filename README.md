@@ -1,6 +1,6 @@
 # Test Repository
 
-[Let us begin gif from Giphy](https://media.giphy.com/media/5zf2M4HgjjWszLd4a5/giphy.gif)
+![Let us begin gif from Giphy](https://media.giphy.com/media/5zf2M4HgjjWszLd4a5/giphy.gif)
 
 ## Steps to Follow
 
