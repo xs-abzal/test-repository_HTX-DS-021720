@@ -7,10 +7,11 @@ Ch-ch-ch-ch-changes!
 ## Steps to Follow
 
 1. Fork this repository
-2. Clone _your_ repository to your local drive
-3. Add a file of some kind to your repository, or make changes to this readme
-4. Check the status of your repository
-5. Add and commit your changes, then push back to _your_ repository
+2. Clone _your forked repository_ to your local drive
+3. Create and checkout a new branch for your work
+4. Add a file of some kind to your repository, or make changes to this readme
+5. Check the status of your repository
+6. Add and commit your changes, then push back to _your forked repository_ 
 
 ## Other To-Dos Today:
 
